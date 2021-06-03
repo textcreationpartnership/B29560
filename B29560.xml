@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The seaman's adieu to his pritty Betty: living near Wapping; or, A pattern of true love, &amp;c. Sweet William to the seas was prest, and left his love behind; whilst she her sorrows oft exprest and blam'd the fates unkind. To the tune of, Tender hearts, &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 3KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29560</idno><idno type="EEBO-CITATION">99888151</idno>
+  <idno type="VID">193211</idno>
+  <idno type="EEBO-PROQUEST">2240893900</idno>
+  
+            <idno type="STC">Wing S2182</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.10[69]</idno>
+            <idno type="PROQUEST">ocm99888151</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888151e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29560)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193211)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A6:2[69])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The seaman's adieu to his pritty Betty: living near Wapping; or, A pattern of true love, &amp;c. Sweet William to the seas was prest, and left his love behind; whilst she her sorrows oft exprest and blam'd the fates unkind. To the tune of, Tender hearts, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Deacon, at the Angel, in Guiltspur-street,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing CD-ROM, 1996.</note>
+                  <note>Verse: "Sweet William and pritty Betty,".</note>
+                  <note>Imperfect: stained.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sailors --  Poetry --  Early works to 1800.</term>
+               <term type="topical_term">Love poetry, English --  England --  Early works to 1800.</term>
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:193211:1"/>
+            <head>The Seamans adieu to his pritty <hi>BETTY:</hi> Living near <hi>WAPPING; OR,</hi> A Pattern of true Love, <hi>&amp;c.</hi>
+               <q>
+                  <l>Sweet <hi>William</hi> to the Seas was prest,</l>
+                  <l>and left his Love behind;</l>
+                  <l>Whilst she her sorrows oft exprest</l>
+                  <l>and blam'd the fates unkind.</l>
+               </q>
+            </head>
+            <opener>To the Tune of, <hi>Tender hearts,</hi> &amp;c.</opener>
+            <p>
+               <figure>
+                  <figDesc>woodcut of woman and man holding hands</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>woodcut of a flag waving at sea</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>SWeet <hi>William</hi> and pritty <hi>Betty,</hi>
+               </l>
+               <l>They were loving, kind, and pritty;</l>
+               <l>none alive could be more true,</l>
+               <l>Yet at last; how they was crost,</l>
+               <l>in brief I will declare to you.</l>
+            </lg>
+            <lg>
+               <l>He aboard was then commanded,</l>
+               <l>By no means he could withstand it,</l>
+               <l>she was left with grief on shore;</l>
+               <l>Discontented she lamented,</l>
+               <l>for the loss of him therefore.</l>
+            </lg>
+            <lg>
+               <l>Qd. he, my dearest, cease thy weeping</l>
+               <l>Heavens have thee still in keeping,</l>
+               <l>for if I return alive;</l>
+               <l>Here is my hand, by Sea and Land,</l>
+               <l>no creature shall my Love deprive.</l>
+            </lg>
+            <lg>
+               <l>Thus with sighs and tears they parted</l>
+               <l>She to him was Loyal hearted,</l>
+               <l>but her tears could not prevail;</l>
+               <l>She was left, of Ioy bereft,</l>
+               <l>for then the Ship was under Sail.</l>
+            </lg>
+            <lg>
+               <l>
+                  <figure>
+                     <figDesc>woodcut of woman with fan</figDesc>
+                  </figure>
+                  <figure>
+                     <figDesc>woodcut of ships, one sinking, dashed against the rocks</figDesc>
+                  </figure>
+               </l>
+               <l>But alas! Tempestuous Weather,</l>
+               <l>Wind and Rain, &amp; Storms together,</l>
+               <l>thus the raging Seas did rore;</l>
+               <l>Quoth he, my dear, I greatly fear,</l>
+               <l>that I shall never see thee more.</l>
+            </lg>
+            <lg>
+               <l>Thus the Claps of roaring Thunder,</l>
+               <l>Rais'd the waves to all Mens wonder</l>
+               <l>they were cast upon the Sand;</l>
+               <l>The Ship was lost, and they was crost</l>
+               <l>they being many <hi>Leagues</hi> from Land.</l>
+            </lg>
+            <lg>
+               <l>Thus their goodly Ship staved,</l>
+               <l>Nothing that they had was was saved</l>
+               <l>but the lives of only three;</l>
+               <l>We on shore, may grieve therefore,</l>
+               <l>to think of their Extreamity.</l>
+            </lg>
+            <lg>
+               <l>While their grief they were expressing</l>
+               <l>Heavens now doth send a blessing,</l>
+               <l>for a Ship that Sailed by,</l>
+               <l>Which did see them, and did free them</l>
+               <l>from that woful Distany.</l>
+            </lg>
+            <lg>
+               <l>They were bound for <hi>London</hi> City,</l>
+               <l>Where they found his true loves pitty,</l>
+               <l>thus they did declare indeed;</l>
+               <l>That <hi>William</hi> he, was in the Sea,</l>
+               <l>which made her very heart to bleed.</l>
+            </lg>
+            <lg>
+               <l>O my dearest Love, she cryed,</l>
+               <l>Would I for thy sake had dyed,</l>
+               <l>thou ly'st rouling in the Sea;</l>
+               <l>Hear my Ditty, Lovers pitty,</l>
+               <l>can you now forbear to weep?</l>
+            </lg>
+            <lg>
+               <l>O ye Rocks and Waves so cruel,</l>
+               <l>You have rob'd me of my Iewel,</l>
+               <l>you have got my hearts delight;</l>
+               <l>O come seize me Death, and ease me,</l>
+               <l>thus she cryed day and night.</l>
+            </lg>
+            <lg>
+               <l>Then the Messenger came creeping,</l>
+               <l>All her friends was round her weeping</l>
+               <l>seeing of her Misery;</l>
+               <l>Then she cryed, as she dyed,</l>
+               <l>love I long to be with thee.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>J. Deacon,</hi> at the <hi>Angel,</hi> in <hi>Guiltspur-street.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
